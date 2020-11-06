@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JetPack</string>
+    <string-array name="imageNames">
+        <item> Space Walrus</item>
+        <item> Dragon Dungen </item>
+        <item> Pit Wal </item>
+    </string-array>
+    <string-array name="description">
+        <item>Space: the final frontier... these are the voyages of... a walrus?Meet Walter.
+            He is the first walrus in a revolutionary space program. Someday,
+            his blubbery form will float past asteroids, stars,
+            and planets as he journeys through the dark beyond to become a Master of Space.</item>
+        <item>Dungeons, Dragons is a fantasy tabletop role-playing game originally designed by Gary Gygax and Dave Arneson.</item>
+        <item>
+            It is the mission control area of a racing team which makes all the tactical and strategic calls on the race track during a grand prix.
+            A Formula 1 pit wall typically is a gantry box where the operation of running a race car, during a race event, is done.
+        </item>
+    </string-array>
+</resources>
